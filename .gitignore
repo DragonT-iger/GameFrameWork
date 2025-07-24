@@ -1,0 +1,43 @@
+# Visual Studio 임시/설정 파일
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 빌드 출력 디렉터리
+x64/
+build/
+Debug*/
+Release*/
+
+# 링커 출력물
+*.ilk
+*.lib
+*.exp
+*.dll
+*.exe
+D2DEngine/D2DEngine.aps
+D2DEngine/D2DEngine.rc
+D2DEngine/D2DEngine.vcxproj_BACKUP_1027.filters
+D2DEngine/D2DEngine.vcxproj_BACKUP_1088.filters
+D2DEngine/D2DEngine.vcxproj_BASE_1027.filters
+D2DEngine/D2DEngine.vcxproj_BASE_1088.filters
+D2DEngine/D2DEngine.vcxproj_LOCAL_1027.filters
+D2DEngine/D2DEngine.vcxproj_LOCAL_1088.filters
+D2DEngine/D2DEngine.vcxproj_REMOTE_1027.filters
+D2DEngine/D2DEngine.vcxproj_REMOTE_1088.filters
+
+
+
+
+ThirdParty/
+_BACKUP_129.gitignore
+_BACKUP_68.gitignore
+_BASE_129.gitignore
+_BASE_68.gitignore
+_LOCAL_129.gitignore
+_LOCAL_68.gitignore
+_REMOTE_129.gitignore
+_REMOTE_68.gitignore
